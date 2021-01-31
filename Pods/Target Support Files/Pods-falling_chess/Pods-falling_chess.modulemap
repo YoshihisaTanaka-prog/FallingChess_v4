@@ -1,0 +1,6 @@
+framework module Pods_falling_chess {
+  umbrella header "Pods-falling_chess-umbrella.h"
+
+  export *
+  module * { export * }
+}
